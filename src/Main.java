@@ -9,13 +9,16 @@ public class Main {
 
 
         Rectangle square = new Rectangle(8, 4);
+        int area = square.getArea();
+        System.out.println(area);
 
-        System.out.println(square.);
+
+
+
 
     }
 
     public Main() {
-
 
         System.out.println();
     }
