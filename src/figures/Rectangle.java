@@ -15,6 +15,10 @@ public class Rectangle {
         return a*b;
 
     }
+    public int getPerimeter() {
+        return 2*(a+b);
+    }
+
 
 
 }
