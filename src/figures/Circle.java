@@ -8,5 +8,8 @@ public class Circle {
    public double getCircumference() {
        return 2 * Math.PI * r;
    }
+    public double getAreaofacircle() {
+        return Math.PI * r *r;
+    }
 
 }

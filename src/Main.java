@@ -14,6 +14,10 @@ public class Main {
         Circle circle1 = new Circle(8);
         double circumference = circle1.getCircumference();
         System.out.println("Довжина окружності кола = " + circumference);
+
+        Circle circle2 = new Circle(9);
+        double areaofacircle = circle2.getCircumference();
+        System.out.println("Площа кола = " + areaofacircle);
     }
 }
 
